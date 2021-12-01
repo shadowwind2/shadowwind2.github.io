@@ -24,30 +24,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/2021/11/28/hello-world/</guid>
-            <title>Hello World</title>
-            <link>http://yoursite.com/2021/11/28/hello-world/</link>
-            <pubDate>Sun, 28 Nov 2021 11:12:17 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo new &lt;span class=&#34;token string&#34;&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://yoursite.com/2021/10/25/%E4%BC%98%E6%83%A0%E5%88%B8%E6%8E%A5%E5%8F%97%E4%B8%8E%E5%90%A6%E9%A2%84%E6%B5%8B/</guid>
-            <title></title>
-            <link>http://yoursite.com/2021/10/25/%E4%BC%98%E6%83%A0%E5%88%B8%E6%8E%A5%E5%8F%97%E4%B8%8E%E5%90%A6%E9%A2%84%E6%B5%8B/</link>
+            <guid isPermalink="true">http://yoursite.com/2021/10/25/machinelearning/%E4%BC%98%E6%83%A0%E5%88%B8%E6%8E%A5%E5%8F%97%E4%B8%8E%E5%90%A6%E9%A2%84%E6%B5%8B/</guid>
+            <title>机器学习最初战</title>
+            <link>http://yoursite.com/2021/10/25/machinelearning/%E4%BC%98%E6%83%A0%E5%88%B8%E6%8E%A5%E5%8F%97%E4%B8%8E%E5%90%A6%E9%A2%84%E6%B5%8B/</link>
+            <category term="机器学习" scheme="http://yoursite.com/categories/machinelearning/" />
             <pubDate>Mon, 25 Oct 2021 20:34:42 +0800</pubDate>
-            <description><![CDATA[ &lt;hr /&gt;
-&lt;h2 id=&#34;title机器学习最初战&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#title机器学习最初战&#34;&gt;#&lt;/a&gt; title: 机器学习最初战&lt;/h2&gt;
-&lt;h1 id=&#34;优惠券接受与否预测&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#优惠券接受与否预测&#34;&gt;#&lt;/a&gt; 优惠券接受与否预测&lt;/h1&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;优惠券接受与否预测&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#优惠券接受与否预测&#34;&gt;#&lt;/a&gt; 优惠券接受与否预测&lt;/h1&gt;
 &lt;h1 id=&#34;1数据处理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1数据处理&#34;&gt;#&lt;/a&gt; 1. 数据处理&lt;/h1&gt;
 &lt;h2 id=&#34;1数据分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1数据分析&#34;&gt;#&lt;/a&gt; （1）数据分析&lt;/h2&gt;
 &lt;p&gt;在获得数据集之后，我首先对每类特征在基于自己的理解上进行了分析，以下是我分析的结果：&lt;/p&gt;
